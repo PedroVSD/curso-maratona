@@ -11,4 +11,4 @@
   * Código(OBI 2015): https://neps.academy/br/exercise/47
   * Fila(OBI2014): https://neps.academy/br/exercise/384
   * pilha: https://neps.academy/br/exercise/56
-  * twosum
+  * twosum/hashmap: https://leetcode.com/problems/two-sum/description/
