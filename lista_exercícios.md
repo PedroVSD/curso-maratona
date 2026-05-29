@@ -6,9 +6,10 @@
   * lista_palindromo
 * string:
   * garanama 
-* b tree:
-  * leetcode 94: https://leetcode.com/problems/binary-tree-inorder-traversal/description/
-* heap
+* árvore:
+  * Gincana (OBI 2011)DFS: https://neps.academy/br/exercise/309
+* dp:
+  * Subindo a escada(Fibonacci): https://leetcode.com/problems/climbing-stairs/
 * array:
   * Código(OBI 2015): https://neps.academy/br/exercise/47
   * pilha: https://neps.academy/br/exercise/56
