@@ -1,6 +1,7 @@
 #include <iostream>
 #include <algorithm>
 #include <vector>
+#include <cmath>
 
 using namespace std;
 
@@ -16,7 +17,7 @@ int main(void){
     int time_a = jogadores[0] + jogadores[3];
     int time_b = jogadores[1] + jogadores[2];
 
-    int resultado = time_a - time_b;
+    int resultado = abs(time_a - time_b);
 
     cout << resultado << endl;
 }
